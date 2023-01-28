@@ -4,15 +4,19 @@ Esta é minha solução para o [desafio do componente de código QR no Frontend 
 
 ## Índice
 
-- [Visão geral](#visão geral)
-   - [Captura de tela](#captura de tela)
-   - [Links](#links)
-- [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
-   - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-   - [Recursos úteis](#useful-resources)
-- [Autor](#autor)
-- [Agradecimentos](#acknowledgments)
+- [Visão geral](#visão-geral)
+   - [Captura de tela](#captura-de-tela)
+- [Processo de Desenvolvimento](#meu-processo)
+   - [Construído com](#construído-com)
+ 
+## Visão Geral
+Projeto executado para estudo e pratica da minipulação de documentos HTML e CSS
 
-**Observação: exclua esta observação e atualize o sumário com base nas seções que você mantém.**
+## Captura de Tela
+![](./exemple/DESKTOP_LAYOUT.jpeg)
+![](./exemple/MOBILE.jpeg)
+
+## Tecnologias Utilizadas
+-HTML 
+-CSS
+-FLEXBOX

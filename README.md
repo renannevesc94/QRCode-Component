@@ -13,8 +13,9 @@ Esta é minha solução para o [desafio do componente de código QR no Frontend 
 Projeto executado para estudo e pratica da minipulação de documentos HTML e CSS
 
 ## Captura de Tela
+ - DESKTOP
 ![](./exemple/DESKTOP_LAYOUT.jpeg)
---MOBILE
+ - MOBILE
 ![](./exemple/MOBILE.jpeg)
 
 ## Processo de Desenvolvimento

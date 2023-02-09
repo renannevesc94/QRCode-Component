@@ -7,6 +7,7 @@ Esta é minha solução para o [desafio do componente de código QR no Frontend 
 - [Visão geral](#visão-geral)
    - [Captura de tela](#captura-de-tela)
    * [Tecnologias](#tecnologias)
+   - [Links](#links)
     
  
 ## Visão Geral
@@ -28,3 +29,6 @@ Este projeto foi desenvolvido utilizando as tecnologias referenciadas a baixo:
 - ``HTML`` 
 - ``CSS ``
 - ``FLEXBOX``
+
+## Links
+[Link do projeto](https://renannevesc94.github.io/QRCode-Component/)
